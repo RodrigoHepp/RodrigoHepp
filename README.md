@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Flyway-25A9E0?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
 </div>
 
 ---
