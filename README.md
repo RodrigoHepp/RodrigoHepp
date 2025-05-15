@@ -38,14 +38,6 @@
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp&show_icons=true&theme=radical&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp&layout=compact&theme=radical&langs_count=10" />
-   <!-- Linguagens top 10 -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp&layout=compact&theme=radical&langs_count=10" />
-
-  <!-- GitHub Streak -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoHepp&theme=radical" />
-
-  <!-- Linguagens detalhadas -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=RodrigoHepp&theme=radical" />
 </div>
 
 ---
