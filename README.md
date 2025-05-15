@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50" />
-  <img src="https://flywaydb.org/assets/img/flyway-icon-64x64.png" width="50" height="50" alt="Flyway" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Flyway-25A9E0?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
 </div>
