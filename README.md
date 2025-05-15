@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a085,100:1abc9c&height=120&section=header&text=Rodrigo%20Joel%20Hepp&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=1abc9c&size=25&center=true&vCenter=true&width=500&lines=Olá,+sou+Rodrigo+Joel+Hepp!;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+aprendizado."/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=1abc9c&size=25&center=true&vCenter=true&width=500&lines=Olá,+sou+Rodrigo+Joel+Hepp!;Desenvolvedor+Full+Stack; Apaixonado+por+tecnologia+e+aprendizado."/>
 </p>
 
 ---
