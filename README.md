@@ -11,9 +11,9 @@
     
   💻 Desenvolvedor <strong>Full Stack</strong> com foco em backend e frontend<br />
   
-  🧪 Aprendendo sobre integração com <strong>Thymeleaf</strong>, <strong>JPA</strong>, <strong>REST APIs</strong> e mais<br />
+  🧪 Aprendendo sobre melhores práticas de programação, otimização, threads, reflections e mais<br />
   
-  🎮 Fã de jogos e criador de modpacks no tempo livre</p>
+  🎮 Fã de jogos</p>
 </div>
 
 ---
