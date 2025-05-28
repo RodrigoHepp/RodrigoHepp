@@ -60,11 +60,11 @@
 
 ---
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp&show_icons=true&locale=en&rank_icon=github&border_radius=10&theme=react" alt="readme stats" /> 
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoHepp&show_icons=true&locale=en&layout=compact&border_radius=10&theme=react" alt="top langs" />
+
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp&show_icons=true&locale=pt-br&layout=compact&border_radius=10&theme=react" alt="Linguagens Mais Usadas" />
 </div>
 
