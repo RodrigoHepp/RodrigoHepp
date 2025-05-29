@@ -24,7 +24,7 @@
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" height="40" />
 </div>
 
 ### Backend
