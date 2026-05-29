@@ -86,10 +86,10 @@
 <div align="center">
 
 <img width="49%" height="170em"
-     src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoHepp&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
 <img width="41%" height="170em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp&layout=compact&langs_count=7&theme=react"/>
+     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoHepp&layout=compact&langs_count=8&theme=react"/>
 
 </div>
 
