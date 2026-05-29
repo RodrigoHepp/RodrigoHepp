@@ -1,80 +1,106 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=RodrigoHepp&label=Profile%20views&color=0e75b6&style=flat" alt="RodrigoHepp" />
+<img align="right" src="https://komarev.com/ghpvc/?username=RodrigoHepp&label=Visualizações&color=0e75b6&style=flat" alt="RodrigoHepp" />
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Olá,+sou+Rodrigo+Joel+Hepp!;Desenvolvedor+Full+Stack;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=5000&lines=Olá,+sou+Rodrigo+Joel+Hepp!;Desenvolvedor+Java+Full+Stack;Backend+com+Spring+Boot+e+APIs+REST" alt="Typing SVG" />
 </h1>
 
-<div style="max-width: 400px; text-align: left;">
+<div align="center">
+  
+💻 Desenvolvedor Full Stack com foco em Java e ecossistema Spring  
+🎓 Pós-graduando em Tecnologia Java  
+🚀 Experiência com APIs REST, integração de sistemas e mensageria  
+📚 Estudando boas práticas, performance, arquitetura e microsserviços  
 
-  <h2>👨‍💻 Sobre mim</h2>
-  
-  <p>🎓 Pós-graduando em <strong>Tecnologia Java</strong><br />
-    
-  💻 Desenvolvedor <strong>Full Stack</strong> com foco em backend e frontend<br />
-  
-  🧪 Aprendendo sobre melhores práticas de programação, otimização, threads, reflections e mais<br />
-  
-  🎮 Fã de jogos</p>
 </div>
 
 ---
 
+## 👨‍💻 Sobre mim
 
+- ☕ Desenvolvedor Java Full Stack apaixonado por tecnologia e resolução de problemas
+- 🔧 Experiência com desenvolvimento backend utilizando Spring Boot
+- 🌐 Atuação também no frontend com HTML, CSS e JavaScript
+- 📨 Conhecimento em integração de sistemas com RabbitMQ
+- 🗄️ Experiência com bancos de dados relacionais e versionamento de migrations
+- 📖 Sempre buscando evoluir em arquitetura, otimização e boas práticas
+- 🎮 Fã de jogos e tecnologia
 
-## 🛠️ Ferramentas e Tecnologias
+---
 
-### Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" height="40" />
-</div>
+# 🛠️ Tecnologias e Ferramentas
 
-### Backend
-<div style="display: flex; align-items: center; gap: 8px;">
-  <!-- Ícones do skillicons -->
-  <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq" alt="Backend" height="40" />
-
- <!-- Badge Thymeleaf -->
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" height="40" />
+## Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,maven" height="45" alt="Backend" />
   
-  <!-- Badge Flyway -->
-  <img src="https://img.shields.io/badge/Flyway-25A9E0?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" height="40" />
-</div>
-
-
-### Database
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Database" height="40" width="40" style="background:#f80000; padding:5px; border-radius:6px;" />
-</div>
-
-### Tools
-<div>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github" alt="Tools" height="40" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
+  
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
 </div>
 
 ---
 
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigohepp)  
-- 🧱 [GitHub](https://github.com/RodrigoHepp)  
+## Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="45" alt="Frontend" />
+</div>
 
 ---
 
-<h2 align="center">⚡ Status ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp&show_icons=true&locale=en&rank_icon=github&border_radius=10&theme=react" alt="readme stats" /> 
-
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp&show_icons=true&locale=pt-br&layout=compact&border_radius=10&theme=react" alt="Linguagens Mais Usadas" />
+## Banco de Dados
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="45" alt="Databases" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
+       alt="Oracle Database" 
+       height="45" />
 </div>
 
-<br/><br/>
+---
 
-<hr/>
+## Ferramentas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,idea" height="45" alt="Tools" />
+</div>
 
-<br/>
+---
+
+# 📫 Contato
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/rodrigohepp" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/RodrigoHepp" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RodrigoHepp&show_icons=true&theme=react&border_radius=10&locale=pt-br" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHepp&layout=compact&theme=react&border_radius=10&locale=pt-br" />
+
 </div>
 
+---
+
+# ⚡ Atividade
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RodrigoHepp&theme=react&border_radius=10" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/grid-snake.svg" />
+</div>
