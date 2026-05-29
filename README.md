@@ -103,11 +103,3 @@
      src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoHepp&theme=react&hide_border=false"/>
 
 </div>
-
----
-
-# 🐍 Contribuições
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
-</div>
